@@ -1,0 +1,4 @@
+stockfish
+pyautogui
+python-chess
+selenium
