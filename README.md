@@ -7,4 +7,4 @@ Plan:
 - Use Pyautogui to get piece positions
 - Use stockfish to get the best move
 
-Still figuring out how to make this
+Still figuring out how to code this
